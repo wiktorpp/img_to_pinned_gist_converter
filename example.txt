@@ -1,0 +1,2 @@
+git clone https://wiktorpp:ghp_4rfUHVibBUhbih2u9jdjJU02c9JHjh4cS3vf@gist.github.com/ebfbbbeffdeca973df1a1aab7159db74.git
+python converter.py image.png pinned.txt "git add pinned.txt;git commit -m 'm';git push" https://github.com/wiktorpp/converter.py image.png pinned.txt "git add pinned.txt;git commit -m 'm';git push" https://github.com/wiktorpp
