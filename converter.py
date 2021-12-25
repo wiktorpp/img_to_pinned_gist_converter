@@ -13,7 +13,7 @@ pixelmap = image.load()
 
 from semigraphics import braille
 for j in range(0, 32, 7):
-    for i in range(0, 131, 3):
+    for i in range(0, 88, 2):
         x = tuple([
             tuple([bool(pixelmap[i+0,j+0]), bool(pixelmap[i+1,j+0])]),
             tuple([bool(pixelmap[i+0,j+1]), bool(pixelmap[i+1,j+1])]),
